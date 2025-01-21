@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**:thought_balloon:	Description of the request or enhancement**
+**:thought_balloon: Description of the request or enhancement**
 A clear and concise description of what the request is about. Please add the fitting label to this issue:
 - Documentation
 - Enhancement
